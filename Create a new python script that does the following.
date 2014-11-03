@@ -1,0 +1,5 @@
+Create a new python script to do the following;
+
+Identify and download an open source data file from data.gov (e.g., Consumer Complaints) that is in the csv format. Read the file into a dataframe of pandas. Select one or more rows or columns and print the contents. Show the print results. Pull the script and printed results.
+
+Note: you will need to use pandas package.
